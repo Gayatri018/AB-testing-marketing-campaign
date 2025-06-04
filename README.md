@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="AB-Testing-Img.jpg" alt="ab-testing-2" width="500"/>
+    <img src="AB-Testing-Img.jpg" alt="ab-testing-2" width="700"/>
 </div>
 
 # 🛍️ A/B Testing for Marketing Campaigns
